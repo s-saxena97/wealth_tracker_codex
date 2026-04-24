@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Wealth Tracker
 
 Wealth Tracker is a local-first personal finance dashboard for HDFC CSV statements. It imports bank transactions, auto-categorizes them using editable rules, and shows monthly insights tied to spending discipline and investment goals.
@@ -68,3 +69,6 @@ npm run dev:frontend
 - This is a local-use app with no authentication.
 - The SQLite database is created at `backend/wealth-tracker.db`.
 - `node_modules`, build output, database files, and ZIP exports are ignored from git.
+=======
+# wealth_tracker_codex
+>>>>>>> 66aaa20c2803c6f47d1fbf1cdbe19e99ffc763c4
